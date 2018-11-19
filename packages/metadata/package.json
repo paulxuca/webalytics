@@ -1,6 +1,6 @@
 {
     "name": "@webalytics/metadata",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "private": false,
     "description": "Extract common metadata from HTML",
     "main": "dist/src/index.js",
@@ -23,7 +23,7 @@
     },
     "homepage": "https://github.com/Anonyfox/webalytics#readme",
     "devDependencies": {
-        "@webalytics/tslint": "^0.1.1"
+        "@webalytics/tslint": "^0.1.2"
     },
     "nyc": {
         "extension": [
