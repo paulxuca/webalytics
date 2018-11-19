@@ -1,0 +1,3 @@
+# @webalytics/metadata
+
+dummy project
