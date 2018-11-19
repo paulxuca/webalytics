@@ -1,0 +1,10 @@
+# build artifacts
+.data
+dist
+
+# dependencies & NPM stuff
+node_modules
+npm-debug.log
+
+# junk files
+.DS_Store

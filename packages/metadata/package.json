@@ -1,0 +1,46 @@
+{
+    "name": "@webalytics/metadata",
+    "version": "0.1.0",
+    "description": "Extract common metadata from HTML",
+    "main": "dist/src/index.js",
+    "types": "dist/src/index.d.ts",
+    "scripts": {
+        "build": "rm -rf dist && tsc",
+        "test": "NODE_ENV=test tslint --fix src/**/*.ts test/**/*.ts && nyc mocha --opts test/mocha.opts",
+        "test:watch": "npm run test -- --watch --reporter min",
+        "docs": "rm -rf docs && typedoc --mode modules --ignoreCompilerErrors --excludeExternals --excludePrivate --excludeNotExported --out docs src"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Anonyfox/webalytics.git"
+    },
+    "keywords": [],
+    "author": "Maximilian Stroh",
+    "license": "LGPL-3.0",
+    "bugs": {
+        "url": "https://github.com/Anonyfox/webalytics/issues"
+    },
+    "homepage": "https://github.com/Anonyfox/webalytics#readme",
+    "devDependencies": {
+        "@webalytics/tslint": "0.1.0"
+    },
+    "dependencies": {},
+    "nyc": {
+        "extension": [
+            ".ts",
+            ".tsx"
+        ],
+        "exclude": [
+            "**/*.d.ts",
+            "coverage",
+            "dist",
+            "docs",
+            "node_modules",
+            "test"
+        ],
+        "reporter": [
+            "text",
+            "text-summary"
+        ]
+    }
+}

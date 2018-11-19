@@ -1,0 +1,24 @@
+{
+    "name": "@webalytics/tslint",
+    "version": "0.1.0",
+    "description": "Coding Standards for @webalytics",
+    "main": "tslint.json",
+    "scripts": {
+        "build": "echo \"Nothing to build\"",
+        "test": "echo \"Nothing to test\""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Anonyfox/webalytics.git"
+    },
+    "keywords": [],
+    "author": "Maximilian Stroh",
+    "license": "LGPL-3.0",
+    "bugs": {
+        "url": "https://github.com/Anonyfox/webalytics/issues"
+    },
+    "homepage": "https://github.com/Anonyfox/webalytics#readme",
+    "dependencies": {
+        "tslint-config-prettier": "^1.12.0"
+    }
+}
