@@ -1,5 +1,6 @@
 {
     "name": "@webalytics/tslint",
+    "private": false,
     "version": "0.1.1",
     "description": "Coding Standards for @webalytics",
     "main": "tslint.json",
@@ -20,5 +21,6 @@
     "homepage": "https://github.com/Anonyfox/webalytics#readme",
     "dependencies": {
         "tslint-config-prettier": "^1.12.0"
-    }
+    },
+    "gitHead": "491294e3a7e26ef5f0dd432661d38935b50a389a"
 }

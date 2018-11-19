@@ -1,6 +1,7 @@
 {
     "name": "@webalytics/metadata",
     "version": "0.1.1",
+    "private": false,
     "description": "Extract common metadata from HTML",
     "main": "dist/src/index.js",
     "types": "dist/src/index.d.ts",
@@ -41,5 +42,6 @@
             "text",
             "text-summary"
         ]
-    }
+    },
+    "gitHead": "491294e3a7e26ef5f0dd432661d38935b50a389a"
 }
