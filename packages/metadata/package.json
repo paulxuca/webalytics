@@ -21,7 +21,11 @@
         "url": "https://github.com/Anonyfox/webalytics/issues"
     },
     "homepage": "https://github.com/Anonyfox/webalytics#readme",
+    "dependencies": {
+        "cheerio": "^0.22.0"
+    },
     "devDependencies": {
+        "@types/cheerio": "^0.22.0",
         "@webalytics/tslint": "^0.1.4"
     },
     "nyc": {
