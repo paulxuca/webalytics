@@ -2,7 +2,7 @@ import 'chai/register-should'
 import { skip, slow, suite, test, timeout } from 'mocha-typescript'
 import metadata from '../../src'
 
-@suite('AuthoFeedsr')
+@suite('Feeds')
 export class Test {
   @test
   'does extract empty array if nothing is found'() {
