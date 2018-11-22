@@ -44,6 +44,7 @@ export class Parser {
     this.title = this.selectTitle()
     this.description = this.selectDescription()
     this.author = this.selectAuthor()
+    this.feeds = this.selectFeeds()
     return this.results()
   }
 
@@ -89,6 +90,19 @@ export class Parser {
       this.$(`meta[name='author']`).attr('content') ||
       ''
     )
+  }
+
+  /**
+   * select all RSS/Atom feed urls from the the [[html]] and return it
+   */
+  selectFeeds() {
+    const selectors: string[] = []
+    selectors.push(`link[type='application/rss+xml']`)
+    selectors.push(`link[type='application/atom+xml']`)
+    selectors.push(`link[rel='alternate']`)
+    return this.$(selectors.join(','))
+      .map((i, e) => e.attribs.href)
+      .get()
   }
 
   /**
