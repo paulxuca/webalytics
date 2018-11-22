@@ -45,6 +45,7 @@ export class Parser {
     this.description = this.selectDescription()
     this.author = this.selectAuthor()
     this.feeds = this.selectFeeds()
+    this.keywords = this.selectKeywords()
     return this.results()
   }
 
@@ -103,6 +104,14 @@ export class Parser {
     return this.$(selectors.join(','))
       .map((i, e) => e.attribs.href)
       .get()
+  }
+
+  /**
+   * select the keywords tag from the the [[html]] and return the contents
+   */
+  selectKeywords() {
+    const content = this.$(`meta[name='keywords']`).attr('content') || ''
+    return content ? content.split(/[,;]/).map(w => w.trim()) : []
   }
 
   /**
