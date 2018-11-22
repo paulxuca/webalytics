@@ -43,6 +43,7 @@ export class Parser {
   scan() {
     this.title = this.selectTitle()
     this.description = this.selectDescription()
+    this.author = this.selectAuthor()
     return this.results()
   }
 
@@ -71,7 +72,21 @@ export class Parser {
       this.$(`meta[name='og:description']`).attr('content') ||
       this.$(`meta[property='twitter:description']`).attr('content') ||
       this.$(`meta[name='twitter:description']`).attr('content') ||
-      this.$('title').text() ||
+      ''
+    )
+  }
+
+  /**
+   * select the author from the the [[html]] if possible and return it
+   */
+  selectAuthor() {
+    return (
+      this.$(`meta[property='og:site_name']`).attr('content') ||
+      this.$(`meta[name='og:site_name']`).attr('content') ||
+      this.$(`meta[property='twitter:creator']`).attr('content') ||
+      this.$(`meta[name='twitter:creator']`).attr('content') ||
+      this.$(`meta[property='author']`).attr('content') ||
+      this.$(`meta[name='author']`).attr('content') ||
       ''
     )
   }
