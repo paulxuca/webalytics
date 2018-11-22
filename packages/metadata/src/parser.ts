@@ -4,9 +4,9 @@ import Metadata from './metadata'
 /**
  * Incremental HTML parser and optimized selectors for common data fields
  */
-export default class Parser {
+export class Parser {
   /**
-   * Convenience method for processing a html document an extracting all
+   * Convenience method for processing a html document and extracting all
    * possible metadata fields at once.
    *
    * @param html utf-8 string containing html

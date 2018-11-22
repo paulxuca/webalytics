@@ -1,7 +1,6 @@
 import 'chai/register-should'
-import * as cheerio from 'cheerio'
 import { skip, slow, suite, test, timeout } from 'mocha-typescript'
-import Parser from '../src/parser'
+import { Parser } from '../src/parser'
 
 @suite('Parser')
 export class Test {
