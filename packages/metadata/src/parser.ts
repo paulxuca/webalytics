@@ -22,13 +22,30 @@ export default class Parser {
   // run all selects
   scan() {
     this.selectTitle()
+    this.selectDescription()
     return this
   }
 
   selectTitle() {
-    let result = ''
-    result = this.$('title').text()
-    this.title = result
+    this.title =
+      this.$(`meta[property='og:title']`).attr('content') ||
+      this.$(`meta[name='og:title']`).attr('content') ||
+      this.$(`meta[property='twitter:title']`).attr('content') ||
+      this.$(`meta[name='twitter:title']`).attr('content') ||
+      this.$('title').text() ||
+      ''
+  }
+
+  selectDescription() {
+    this.description =
+      this.$(`meta[property='description']`).attr('content') ||
+      this.$(`meta[name='description']`).attr('content') ||
+      this.$(`meta[property='og:description']`).attr('content') ||
+      this.$(`meta[name='og:description']`).attr('content') ||
+      this.$(`meta[property='twitter:description']`).attr('content') ||
+      this.$(`meta[name='twitter:description']`).attr('content') ||
+      this.$('title').text() ||
+      ''
   }
 
   results(): Metadata {
