@@ -1,6 +1,6 @@
 import 'chai/register-should'
 import { skip, slow, suite, test, timeout } from 'mocha-typescript'
-import metadata from '../src'
+import metadata from '../../src'
 
 @suite('Description')
 export class Test {
