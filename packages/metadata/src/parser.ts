@@ -1,7 +1,21 @@
 import * as cheerio from 'cheerio'
 import Metadata from './metadata'
 
+/**
+ * Incremental HTML parser and optimized selectors for common data fields
+ */
 export default class Parser {
+  /**
+   * Convenience method for processing a html document an extracting all
+   * possible metadata fields at once.
+   *
+   * @param html utf-8 string containing html
+   * @param url optional base url of the html document (for normalizing links)
+   */
+  static scan(html: string, url: string = '') {
+    return new Parser(html, url).scan()
+  }
+
   $: CheerioStatic
   html: string = ''
   title: string = ''
@@ -13,31 +27,44 @@ export default class Parser {
   keywords: string[] = []
   author: string = ''
 
+  /**
+   * @param html utf-8 string containing html
+   * @param url optional base url of the html document (for normalizing links)
+   */
   constructor(html: string, url: string = '') {
     this.html = html
     this.url = url
     this.$ = cheerio.load(html, { decodeEntities: true })
   }
 
-  // run all selects
+  /**
+   * execute all selects and return a proper [[Metadata]] object
+   */
   scan() {
-    this.selectTitle()
-    this.selectDescription()
-    return this
+    this.title = this.selectTitle()
+    this.description = this.selectDescription()
+    return this.results()
   }
 
+  /**
+   * select the best title from the the [[html]] and return it
+   */
   selectTitle() {
-    this.title =
+    return (
       this.$(`meta[property='og:title']`).attr('content') ||
       this.$(`meta[name='og:title']`).attr('content') ||
       this.$(`meta[property='twitter:title']`).attr('content') ||
       this.$(`meta[name='twitter:title']`).attr('content') ||
       this.$('title').text() ||
       ''
+    )
   }
 
+  /**
+   * select the best description from the the [[html]] and return it
+   */
   selectDescription() {
-    this.description =
+    return (
       this.$(`meta[property='description']`).attr('content') ||
       this.$(`meta[name='description']`).attr('content') ||
       this.$(`meta[property='og:description']`).attr('content') ||
@@ -46,8 +73,12 @@ export default class Parser {
       this.$(`meta[name='twitter:description']`).attr('content') ||
       this.$('title').text() ||
       ''
+    )
   }
 
+  /**
+   * transform [[this]] instance into a plain [[Metadata]] object
+   */
   results(): Metadata {
     const data: any = {}
     data.title = this.title

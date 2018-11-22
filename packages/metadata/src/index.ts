@@ -1,9 +1,8 @@
 import Metadata from './metadata'
 import Parser from './parser'
 
+export * from './Parser'
+
 export default function(html: string, url: string = ''): Metadata {
-  const parser = new Parser(html, url)
-  parser.scan()
-  const results = parser.results()
-  return results
+  return Parser.scan(html, url)
 }
