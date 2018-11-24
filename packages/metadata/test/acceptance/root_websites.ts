@@ -28,8 +28,8 @@ export class Test {
       'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
     ])
     data.favicon.should.be.equal(
-      '/vi-assets/static-assets/apple-touch-icon-319373aaf4524d94d38aa599c56b8655.png'
-    ) // TODO: url normalization
+      'https://nytimes.com/vi-assets/static-assets/apple-touch-icon-319373aaf4524d94d38aa599c56b8655.png'
+    )
     data.keywords.length.should.be.equal(78)
     data.author.should.be.equal('')
   }

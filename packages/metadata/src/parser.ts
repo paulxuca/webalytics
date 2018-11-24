@@ -1,4 +1,5 @@
 import * as cheerio from 'cheerio'
+import { URL } from 'url'
 import Metadata from './metadata'
 
 /**
@@ -84,12 +85,12 @@ export class Parser {
    * select the best image url from the the [[html]] and return it
    */
   selectImage() {
-    return (
+    return this.normalizeURL(
       this.$(`meta[property='og:image']`).attr('content') ||
-      this.$(`meta[name='og:image']`).attr('content') ||
-      this.$(`meta[property='twitter:image']`).attr('content') ||
-      this.$(`meta[name='twitter:image']`).attr('content') ||
-      ''
+        this.$(`meta[name='og:image']`).attr('content') ||
+        this.$(`meta[property='twitter:image']`).attr('content') ||
+        this.$(`meta[name='twitter:image']`).attr('content') ||
+        ''
     )
   }
 
@@ -117,7 +118,7 @@ export class Parser {
     selectors.push(`link[type='application/atom+xml']`)
     selectors.push(`link[rel='alternate']`)
     return this.$(selectors.join(','))
-      .map((i, e) => e.attribs.href)
+      .map((i, e) => this.normalizeURL(e.attribs.href))
       .get()
   }
 
@@ -133,11 +134,11 @@ export class Parser {
    * select the favicon url from the the [[html]] if possible and return it
    */
   selectFavicon() {
-    return (
+    return this.normalizeURL(
       this.$(`link[rel='apple-touch-icon']`).attr('href') ||
-      this.$(`link[rel='shortcut icon']`).attr('href') ||
-      this.$(`link[rel='icon']`).attr('href') ||
-      ''
+        this.$(`link[rel='shortcut icon']`).attr('href') ||
+        this.$(`link[rel='icon']`).attr('href') ||
+        ''
     )
   }
 
@@ -155,5 +156,14 @@ export class Parser {
     data.keywords = this.keywords
     data.author = this.author
     return data
+  }
+
+  /**
+   * when a base url is given in addition to the HTML document, normalize all
+   * urls (images, feeds) to be absolute
+   */
+  private normalizeURL(url: string) {
+    const base = this.url || undefined // empty string will produce bad stuff
+    return base ? new URL(url, base).toString() : url
   }
 }
