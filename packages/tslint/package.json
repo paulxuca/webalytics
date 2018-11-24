@@ -1,6 +1,6 @@
 {
     "name": "@webalytics/tslint",
-    "version": "0.1.4",
+    "version": "0.2.0",
     "description": "Coding Standards for @webalytics",
     "main": "tslint.json",
     "scripts": {
