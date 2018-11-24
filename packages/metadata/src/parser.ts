@@ -46,6 +46,8 @@ export class Parser {
     this.author = this.selectAuthor()
     this.feeds = this.selectFeeds()
     this.keywords = this.selectKeywords()
+    this.favicon = this.selectFavicon()
+    this.image = this.selectImage()
     return this.results()
   }
 
@@ -74,6 +76,19 @@ export class Parser {
       this.$(`meta[name='og:description']`).attr('content') ||
       this.$(`meta[property='twitter:description']`).attr('content') ||
       this.$(`meta[name='twitter:description']`).attr('content') ||
+      ''
+    )
+  }
+
+  /**
+   * select the best image url from the the [[html]] and return it
+   */
+  selectImage() {
+    return (
+      this.$(`meta[property='og:image']`).attr('content') ||
+      this.$(`meta[name='og:image']`).attr('content') ||
+      this.$(`meta[property='twitter:image']`).attr('content') ||
+      this.$(`meta[name='twitter:image']`).attr('content') ||
       ''
     )
   }
@@ -112,6 +127,18 @@ export class Parser {
   selectKeywords() {
     const content = this.$(`meta[name='keywords']`).attr('content') || ''
     return content ? content.split(/[,;]/).map(w => w.trim()) : []
+  }
+
+  /**
+   * select the favicon url from the the [[html]] if possible and return it
+   */
+  selectFavicon() {
+    return (
+      this.$(`link[rel='apple-touch-icon']`).attr('href') ||
+      this.$(`link[rel='shortcut icon']`).attr('href') ||
+      this.$(`link[rel='icon']`).attr('href') ||
+      ''
+    )
   }
 
   /**
