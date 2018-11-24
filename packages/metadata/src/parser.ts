@@ -164,6 +164,7 @@ export class Parser {
    */
   private normalizeURL(url: string) {
     const base = this.url || undefined // empty string will produce bad stuff
-    return base ? new URL(url, base).toString() : url
+    const isRelative = !/^https?/.test(url)
+    return base && isRelative ? new URL(url, base).toString() : url
   }
 }
