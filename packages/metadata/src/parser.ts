@@ -1,4 +1,5 @@
 import * as cheerio from 'cheerio'
+import { uniq } from 'lodash'
 import { URL } from 'url'
 import Metadata from './metadata'
 
@@ -117,9 +118,11 @@ export class Parser {
     selectors.push(`link[type='application/rss+xml']`)
     selectors.push(`link[type='application/atom+xml']`)
     selectors.push(`link[rel='alternate']`)
-    return this.$(selectors.join(','))
-      .map((i, e) => this.normalizeURL(e.attribs.href))
-      .get()
+    return uniq(
+      this.$(selectors.join(','))
+        .map((i, e) => this.normalizeURL(e.attribs.href))
+        .get()
+    )
   }
 
   /**
@@ -127,7 +130,7 @@ export class Parser {
    */
   selectKeywords() {
     const content = this.$(`meta[name='keywords']`).attr('content') || ''
-    return content ? content.split(/[,;]/).map(w => w.trim()) : []
+    return uniq(content ? content.split(/[,;]/).map(w => w.trim()) : [])
   }
 
   /**

@@ -19,9 +19,6 @@ export class Test {
     data.title.should.be.equal('NYT > Home Page')
     data.description.should.be.equal('')
     data.url.should.be.equal('https://www.nytimes.com')
-    data.image.should.be.equal(
-      'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png'
-    )
     data.items.length.should.be.equal(47)
     const item = data.items[0]
     item.title.should.be.equal(
@@ -35,5 +32,28 @@ export class Test {
       'https://www.nytimes.com/2018/11/23/climate/us-climate-report.html?partner=rss&emc=rss'
     )
     item.keywords.length.should.be.equal(21)
+  }
+
+  @test
+  'kreuzfahrt-prozente.de'() {
+    const html = loadExample('kreuzfahrt-prozente.feed.de.xml')
+    const data = rss(html, 'https://kreuzfahrt-prozente.de')
+    data.should.be.an('object')
+    data.title.should.be.equal('Kreuzfahrt-Prozente.de')
+    data.description.should.be.equal(
+      'AIDA Stornokabinen, Restkabinen, Last Minute Kreuzfahrten mit Flug und Bordguthaben'
+    )
+    data.url.should.be.equal('https://kreuzfahrt-prozente.de')
+    data.items.length.should.be.equal(12)
+    const item = data.items[0]
+    item.title.should.be.equal(
+      'Mein Schiff Frühbucher: Alle Ermäßigungen im Überblick'
+    )
+    item.image.should.be.equal('')
+    item.pubDate.should.be.equal('Fri, 23 Nov 2018 19:22:00 +0000')
+    item.url.should.be.equal(
+      'https://kreuzfahrt-prozente.de/tui-cruises-fruehbucherrabatt/'
+    )
+    item.keywords.length.should.be.equal(5)
   }
 }

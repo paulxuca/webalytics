@@ -42,6 +42,6 @@ export class Test {
     const tag3 = '<link rel="alternate" href="/feed" />'
     const html = `<html><head>${tag1}${tag2}${tag3}</head><body /></html>`
     const data = metadata(html)
-    data.feeds.should.be.deep.equal(['/feed', '/feed', '/feed'])
+    data.feeds.should.be.deep.equal(['/feed'])
   }
 }

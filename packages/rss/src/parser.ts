@@ -23,7 +23,6 @@ export class Parser {
   title: string = ''
   description: string = ''
   url: string = ''
-  image: string = ''
   items: Item[] = []
 
   /**
@@ -42,7 +41,6 @@ export class Parser {
   scan() {
     this.title = this.selectTitle()
     this.description = this.selectDescription()
-    this.image = this.selectImage()
     this.items = this.selectItems()
     return this.results()
   }
@@ -72,13 +70,6 @@ export class Parser {
   /**
    * select the best image url from the the [[rss]] and return it
    */
-  selectImage() {
-    return this.normalizeURL(this.$('image url').text() || '')
-  }
-
-  /**
-   * select the best image url from the the [[rss]] and return it
-   */
   selectItems(): Item[] {
     const list: Item[] = []
     this.$('item,entry').each((_, element) => {
@@ -97,7 +88,6 @@ export class Parser {
     data.title = this.title
     data.description = this.description
     data.url = this.url
-    data.image = this.image
     data.items = this.items
     return data
   }
@@ -109,6 +99,6 @@ export class Parser {
   private normalizeURL(url: string) {
     const base = this.url || undefined // empty string will produce bad stuff
     const isRelative = !/^https?/.test(url)
-    return base && isRelative ? new URL(url, base).toString() : url
+    return base && url && isRelative ? new URL(url, base).toString() : url
   }
 }

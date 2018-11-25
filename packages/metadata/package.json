@@ -22,10 +22,12 @@
     },
     "homepage": "https://github.com/Anonyfox/webalytics#readme",
     "dependencies": {
-        "cheerio": "^0.22.0"
+        "cheerio": "^0.22.0",
+        "lodash": "^4.17.11"
     },
     "devDependencies": {
         "@types/cheerio": "^0.22.0",
+        "@types/lodash": "^4.14.118",
         "@webalytics/tslint": "^0.3.0"
     },
     "nyc": {
