@@ -5,7 +5,7 @@
         "bootstrap": "lerna bootstrap --hoist",
         "build": "lerna run build",
         "changes": "lerna changed",
-        "publish": "lerna publish",
+        "publish": "npm run test && npm run build && lerna publish",
         "test": "NODE_ENV=test lerna run test --parallel",
         "test:watch": "NODE_ENV=test lerna run test:watch --parallel"
     },
