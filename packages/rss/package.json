@@ -1,6 +1,6 @@
 {
     "name": "@webalytics/rss",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "Extract normalized data from various feed formats",
     "main": "dist/src/index.js",
     "types": "dist/src/index.d.ts",
@@ -26,7 +26,7 @@
     },
     "devDependencies": {
         "@types/cheerio": "^0.22.0",
-        "@webalytics/tslint": "^0.2.0"
+        "@webalytics/tslint": "^0.3.0"
     },
     "nyc": {
         "extension": [
