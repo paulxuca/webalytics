@@ -1,0 +1,870 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Home Page</title>
+    <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2018  The New York Times Company</copyright>
+    <lastBuildDate>Sat, 24 Nov 2018 12:56:25 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Home Page</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>U.S. Climate Report Warns of Damaged Environment and Shrinking Economy</title>
+      <link>https://www.nytimes.com/2018/11/23/climate/us-climate-report.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/climate/us-climate-report.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/23/climate/us-climate-report.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/24/climate/24cli-report-2/merlin_146590158_372cbff0-acb2-4bf5-8308-f9b1c200405d-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Fighting the Camp Fire this month in Magalia, Calif.</media:description>
+      <media:credit>Justin Sullivan/Getty Images</media:credit>
+      <description>Without major action to rein in global warming, the American economy could lose 10 percent of G.D.P. by 2100, according to a report from 13 federal agencies.</description>
+      <dc:creator>CORAL DAVENPORT and KENDRA PIERRE-LOUIS</dc:creator>
+      <pubDate>Sat, 24 Nov 2018 03:47:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">US Global Change Research Program (USGCRP)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Gross Domestic Product</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midwestern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>What&#x2019;s New in the Latest U.S. Climate Assessment</title>
+      <link>https://www.nytimes.com/2018/11/23/climate/highlights-climate-assessment.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/climate/highlights-climate-assessment.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/23/climate/highlights-climate-assessment.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/24/us/24CLI-REPORT-PRINT2/merlin_143815176_14d84c81-4dac-43cf-9f8e-f255d7af5676-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A volunteer helping flood victims in Wilmington, N.C., in September.</media:description>
+      <media:credit>Tamir Kalifa for The New York Times</media:credit>
+      <description>More and more of the predicted impacts of global warming are now becoming a reality.</description>
+      <dc:creator>BRAD PLUMER and HENRY FOUNTAIN</dc:creator>
+      <pubDate>Sat, 24 Nov 2018 03:49:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Dioxide</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>See How the Fires Burned Where California Goes to Escape It All </title>
+      <link>https://www.nytimes.com/2018/11/23/us/photos-california-fire-damage.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/us/photos-california-fire-damage.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/23/us/photos-california-fire-damage.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/24/us/24caldamage-01-print/00caldamage-01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Woolsey Fire burned down toward the shoreline at Leo Carrillo State Beach in Malibu, Calif.</media:description>
+      <media:credit>Stuart Palley for The New York Times</media:credit>
+      <description>Among the blackened and charred areas in Southern California were hiking trails overlooking the ocean, summer camps and historic movie sets.</description>
+      <dc:creator>JENNIFER MEDINA</dc:creator>
+      <pubDate>Fri, 23 Nov 2018 21:30:50 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malibu (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parks and Other Recreation Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">National Parks, Monuments and Seashores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Woolsey Fire</category>
+    </item>
+    <item>
+      <title>A Winter-Coat Heavyweight Gives Trump&#x2019;s Trade War the Cold Shoulder</title>
+      <link>https://www.nytimes.com/2018/11/23/business/economy/columbia-sportswear-trump-trade-war.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/business/economy/columbia-sportswear-trump-trade-war.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/23/business/economy/columbia-sportswear-trump-trade-war.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/01/business/00dc-Columbia1/00dc-Columbia1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>An employee at Columbia Sportswear headquarters in Portland, Oregon uses a planimeter, which is a tool to measure the two-dimensional area of each material visible on the external surface area of a shoe which is necessary to determine the customs tariff classification and duty rate.</media:description>
+      <media:credit>Corey Arnold for The New York Times</media:credit>
+      <description>Columbia Sportswear has worked around tariffs for decades &#x2014; and it says the president&#x2019;s new wave of levies will not bring jobs back to America.</description>
+      <dc:creator>JIM TANKERSLEY</dc:creator>
+      <pubDate>Fri, 23 Nov 2018 23:56:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoot-Hawley Tariff Act (1930)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Columbia Sportswear Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Coats and Jackets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sporting Goods and Equipment</category>
+    </item>
+    <item>
+      <title>New York State&#x2019;s Lawsuit Against Trump Foundation Can Proceed, Judge Rules</title>
+      <link>https://www.nytimes.com/2018/11/23/nyregion/trump-foundation-lawsuit-new-york.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/nyregion/trump-foundation-lawsuit-new-york.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/23/nyregion/trump-foundation-lawsuit-new-york.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/24/nyregion/24nytrump/24nytrump-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>For the second time this year, a New York State judge in Manhattan decided that President Trump is not immune from civil court cases that involve his unofficial activities or actions that took place before he was in office.</media:description>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <description>A judge rejected several arguments that the state&#x2019;s lawsuit accusing the Trump Foundation of misusing funds and self-dealing should be tossed out.</description>
+      <dc:creator>J. DAVID GOODMAN</dc:creator>
+      <pubDate>Fri, 23 Nov 2018 23:33:29 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Trump, Donald J, Foundation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schneiderman, Eric T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Underwood, Barbara D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+    </item>
+    <item>
+      <title>Trump Asks Supreme Court for Fast Appeal of Transgender Military Ban</title>
+      <link>https://www.nytimes.com/2018/11/23/us/politics/trump-transgender-ban-supreme-court.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/us/politics/trump-transgender-ban-supreme-court.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/23/us/politics/trump-transgender-ban-supreme-court.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/24/us/24dc-scotus1/24dc-scotus1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Solicitor General Noel J. Francisco told the Supreme Court that prompt action was required to ensure that it could rule on the Trump administration&#x2019;s ban on transgender military service before its current term ended in June.</media:description>
+      <media:credit>Erin Schaff for The New York Times</media:credit>
+      <description>In what has become an increasingly common move for the Trump administration, it asked the justices to step in before lower courts have ruled.</description>
+      <dc:creator>ADAM LIPTAK</dc:creator>
+      <pubDate>Sat, 24 Nov 2018 00:25:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender and Transsexuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francisco, Noel J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kollar-Kotelly, Colleen</category>
+    </item>
+    <item>
+      <title>The Website That Shows How a Free Press Can Die</title>
+      <link>https://www.nytimes.com/2018/11/24/world/europe/hungary-viktor-orban-media.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/24/world/europe/hungary-viktor-orban-media.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/24/world/europe/hungary-viktor-orban-media.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/25/world/25orban-media1/xxorban-media1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>From the beginning of his premiership in 2010, Viktor Orban has steadily eroded the checks and balances in Hungary&#x2019;s once-promising democracy, especially the independent media.</media:description>
+      <media:credit>Akos Stiller/Bloomberg</media:credit>
+      <description>Origo was a popular, independent news outlet that made trouble for Hungary&#x2019;s far-right leader, Viktor Orban. Relentless pressure changed all that.</description>
+      <dc:creator>PATRICK KINGSLEY and BENJAMIN NOVAK</dc:creator>
+      <pubDate>Sat, 24 Nov 2018 12:00:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Deutsche Telekom AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Fidesz Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Orban, Viktor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Soros, George</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Budapest (Hungary)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+    </item>
+    <item>
+      <title>Jets, Horses and Bribes: How a Venezuelan Official Became a Billionaire as His Country Crumbled</title>
+      <link>https://www.nytimes.com/2018/11/23/world/americas/venezuela-andrade-corruption-bribes.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/world/americas/venezuela-andrade-corruption-bribes.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/23/world/americas/venezuela-andrade-corruption-bribes.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/24/world/24venezuela-print/24venezuela-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Emanuel Andrade, the son of Alejandro Andrade, a former Venezuela official who has admitted receiving more than $1 billion in bribes, competing in Paris in 2017.</media:description>
+      <media:credit>Jacques Demarthon/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Alejandro Andrade, a former treasurer in Venezuela&#x2019;s Socialist government, will be sentenced next week after pleading guilty to receiving more than $1 billion in bribes.</description>
+      <dc:creator>NICHOLAS CASEY</dc:creator>
+      <pubDate>Sat, 24 Nov 2018 01:37:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Horses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Bribery and Kickbacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Globovision</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chavez, Hugo</category>
+    </item>
+    <item>
+      <title>Fistfights and Long Lines on Black Friday? Not as Much Anymore. </title>
+      <link>https://www.nytimes.com/2018/11/23/business/black-friday-history.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/business/black-friday-history.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/23/business/black-friday-history.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/20/business/00thenandnow-1/00thenandnow-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The sidewalks of the SoHo area of Manhattan were packed on Black Friday, 2014.</media:description>
+      <media:credit>Michael Appleton for The New York Times</media:credit>
+      <description>Black Friday used to be all about midnight fights, endless lines and major markdowns on televisions. Like the rest of retailing, so much has changed.</description>
+      <dc:creator>TIFFANY HSU</dc:creator>
+      <pubDate>Fri, 23 Nov 2018 20:57:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Friday and Cyber Monday (Shopping)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Commerce and Payments</category>
+    </item>
+    <item>
+      <title>10 of Our Best Weekend Reads</title>
+      <link>https://www.nytimes.com/2018/11/24/arts/11-of-our-best-weekend-reads.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/24/arts/11-of-our-best-weekend-reads.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/24/arts/11-of-our-best-weekend-reads.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/21/nyregion/21paradepics-ast-10-weekendreads/21paradepics-ast-10-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Librado Romero/The New York Times</media:credit>
+      <description>Macy&#x2019;s Thanksgiving Day parade. Working while female. Notable books of 2018. And more.</description>
+      <dc:creator>KATHLEEN MASSARA</dc:creator>
+      <pubDate>Sat, 24 Nov 2018 10:28:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">23andMe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Buenos Aires (Argentina)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Comey, James B</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Hillary Rodham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rwanda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palm Oil</category>
+    </item>
+    <item>
+      <title>The Week in Good News: Chess in Norway, the Grammar Table, Steven Pinker</title>
+      <link>https://www.nytimes.com/2018/11/22/briefing/week-in-good-news-chess-norway-steven-pinker.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/22/briefing/week-in-good-news-chess-norway-steven-pinker.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/22/briefing/week-in-good-news-chess-norway-steven-pinker.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/24/sports/21norwaychess-web9-goodnews/21norwaychess-web9-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Taking lessons in the game at an after-school program in Oslo.</media:description>
+      <media:credit>Linda Bournane Engelberth for The New York Times</media:credit>
+      <description>Sometimes it seems as if we&#x2019;re living under a constant barrage of heavy news. But it isn&#x2019;t all bad out there.</description>
+      <dc:creator>DES SHOE</dc:creator>
+      <pubDate>Thu, 22 Nov 2018 17:08:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Loneliness Is Tearing America Apart</title>
+      <link>https://www.nytimes.com/2018/11/23/opinion/loneliness-political-polarization.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/opinion/loneliness-political-polarization.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/23/opinion/loneliness-political-polarization.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/21/opinion/21ARTHURBROOKS/21ARTHURBROOKS-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>John Taggart for The New York Times</media:credit>
+      <description>When people have a hole in their life, they often fill it with angry politics.</description>
+      <dc:creator>ARTHUR C. BROOKS</dc:creator>
+      <pubDate>Sat, 24 Nov 2018 00:00:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sasse, Benjamin E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Them: Why We Hate Each Other -- and How to Heal (Book)</category>
+    </item>
+    <item>
+      <title>Ohio Isn&#x2019;t a Red State Yet</title>
+      <link>https://www.nytimes.com/2018/11/23/opinion/ohio-election-sherrod-brown-democrats.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/opinion/ohio-election-sherrod-brown-democrats.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/23/opinion/ohio-election-sherrod-brown-democrats.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/23/opinion/23whaley/23whaley-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>A voter after casting his ballot at the Hamilton County Board of Elections in Cincinnati on Oct. 10.</media:description>
+      <media:credit>John Minchillo/Associated Press</media:credit>
+      <description>But it will be if Democrats do not fight for working people in every corner of the state.</description>
+      <dc:creator>NAN WHALEY</dc:creator>
+      <pubDate>Fri, 23 Nov 2018 23:55:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">State Legislatures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Sherrod</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeWine, Mike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dayton (Ohio)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+    </item>
+    <item>
+      <title>Sheryl Sandberg Can&#x2019;t Have It All</title>
+      <link>https://www.nytimes.com/2018/11/23/opinion/sunday/sheryl-sandberg-facebook-russia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/opinion/sunday/sheryl-sandberg-facebook-russia.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/23/opinion/sunday/sheryl-sandberg-facebook-russia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/25/opinion/25senior2/25senior2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Facebook's chief operating officer, Sheryl Sandberg, testifying in front of the Senate Intelligence Committee in September.</media:description>
+      <media:credit>Eric Thayer for The New York Times</media:credit>
+      <description>The burdens and perils of the pedestal.</description>
+      <dc:creator>JENNIFER SENIOR</dc:creator>
+      <pubDate>Fri, 23 Nov 2018 23:51:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Women's Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sandberg, Sheryl K</category>
+    </item>
+    <item>
+      <title>Editorial Observer: New York City High Schoolers Get Their Day in Court</title>
+      <link>https://www.nytimes.com/2018/11/23/opinion/education-high-school-courts-civics-law.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/opinion/education-high-school-courts-civics-law.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/23/opinion/education-high-school-courts-civics-law.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/23/opinion/23observer-edt/23observer-edt-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>High school students listen to Chief Judge Robert Katzmann, of the United States Court of Appeals for the Second Circuit, speak in New York.</media:description>
+      <media:credit>Damon Winter/The New York Times</media:credit>
+      <description>A new civic-education project in a Manhattan federal courthouse gives teenagers a positive experience with the law.</description>
+      <dc:creator>JESSE WEGMAN</dc:creator>
+      <pubDate>Fri, 23 Nov 2018 20:09:50 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Immigrant Justice Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marshall, Thurgood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queens (NYC)</category>
+    </item>
+    <item>
+      <title>So, You&#x2019;ve Wandered Into a Too-Expensive Store</title>
+      <link>https://www.nytimes.com/2018/11/23/opinion/sunday/holiday-shopping-humor.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/opinion/sunday/holiday-shopping-humor.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/23/opinion/sunday/holiday-shopping-humor.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/25/opinion/sunday/25loose/25loose-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Aisha Franz</media:credit>
+      <description>The important thing is not to panic.</description>
+      <dc:creator>MONICA HEISEY</dc:creator>
+      <pubDate>Fri, 23 Nov 2018 20:00:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gifts</category>
+    </item>
+    <item>
+      <title>Trying to Fight, Not Spread, Fear and Lies</title>
+      <link>https://www.nytimes.com/2018/11/23/opinion/sunday/media-midterms-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/opinion/sunday/media-midterms-trump.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/23/opinion/sunday/media-midterms-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/25/opinion/25KRISTOF/25KRISTOF-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Refugees climbed aboard trucks in southern Mexico last month to join the caravan headed toward the United States.</media:description>
+      <media:credit>Todd Heisler/The New York Times</media:credit>
+      <description>How can the media avoid the misinformation trap?</description>
+      <dc:creator>NICHOLAS KRISTOF</dc:creator>
+      <pubDate>Sat, 24 Nov 2018 00:41:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cable Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Center for Global Development</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murrow, Edward R</category>
+    </item>
+    <item>
+      <title>Red Dead Redemption 2 Is True Art</title>
+      <link>https://www.nytimes.com/2018/11/23/opinion/sunday/red-dead-redemption-2-fallout-76-video-games.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/opinion/sunday/red-dead-redemption-2-fallout-76-video-games.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/23/opinion/sunday/red-dead-redemption-2-fallout-76-video-games.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/25/opinion/25SUDERMAN/25SUDERMAN-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An image from the video game Red Dead Redemption 2. It pulled in $725 million in its first three days on sale.</media:description>
+      <media:credit>Rockstar Games</media:credit>
+      <description>The season&#x2019;s best blockbuster isn&#x2019;t a TV show or movie. It&#x2019;s a video game.</description>
+      <dc:creator>PETER SUDERMAN</dc:creator>
+      <pubDate>Fri, 23 Nov 2018 19:35:50 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Red Dead Redemption 2</category>
+    </item>
+    <item>
+      <title>How Democrats Can Deliver on Health Care</title>
+      <link>https://www.nytimes.com/2018/11/22/opinion/democrats-obamacare-states.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/22/opinion/democrats-obamacare-states.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/22/opinion/democrats-obamacare-states.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/22/opinion/22KRUGMAN/22KRUGMAN-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>New Jersey Citizen Action in Newark helps residents sign up for health insurance under Obamacare.</media:description>
+      <media:credit>Demetrius Freeman for The New York Times</media:credit>
+      <description>New Jersey shows the way. You got a problem with that?</description>
+      <dc:creator>PAUL KRUGMAN</dc:creator>
+      <pubDate>Fri, 23 Nov 2018 00:00:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2018)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Patient Protection and Affordable Care Act (2010)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Democratic Party</category>
+    </item>
+    <item>
+      <title>The Return of the Chastened Establishment</title>
+      <link>https://www.nytimes.com/2018/11/22/opinion/populism-establishment-working-class.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/22/opinion/populism-establishment-working-class.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/22/opinion/populism-establishment-working-class.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/22/opinion/22brooks-02/22brooks-02-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Diplomatic Reception Room at the White House.</media:description>
+      <media:credit>Al Drago/The New York Times</media:credit>
+      <description>Who should run the country next?</description>
+      <dc:creator>DAVID BROOKS</dc:creator>
+      <pubDate>Fri, 23 Nov 2018 00:00:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Brookings Institution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">American Enterprise Institute for Public Policy Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Convergence Center for Policy Resolution</category>
+    </item>
+    <item>
+      <title>The Beginning of the End of America&#x2019;s Best Idea</title>
+      <link>https://www.nytimes.com/2018/11/23/opinion/california-wildfires-national-parks.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/opinion/california-wildfires-national-parks.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/23/opinion/california-wildfires-national-parks.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/23/opinion/23egan/23egan-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A sign designating the Corral Canyon Park recreation area stands amid landscape charred by the Woolsey fire in Malibu, Calif., on Nov. 13.</media:description>
+      <media:credit>Reed Saxon/Associated Press</media:credit>
+      <description>The story told by the recent wildfires is grim, a portent of nature altered and convulsive.</description>
+      <dc:creator>TIMOTHY EGAN</dc:creator>
+      <pubDate>Fri, 23 Nov 2018 11:00:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Federal Lands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+    </item>
+    <item>
+      <title>Of Monuments, Arguments, Vampires and Thanksgiving</title>
+      <link>https://www.nytimes.com/2018/11/22/opinion/sunday/thanksgiving-politics-family.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/22/opinion/sunday/thanksgiving-politics-family.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/22/opinion/sunday/thanksgiving-politics-family.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/25/opinion/25DOWD02/25DOWD02-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Monument Valley, Utah, last month.</media:description>
+      <media:credit>Rick Bowmer/Associated Press</media:credit>
+      <description>John Wayne, Brett Kavanaugh, my brothers Michael and Kevin, and me.</description>
+      <dc:creator>MAUREEN DOWD</dc:creator>
+      <pubDate>Thu, 22 Nov 2018 11:00:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Thanksgiving Day</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kavanaugh, Brett M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ford, Christine Blasey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Work-Life Balance</category>
+    </item>
+    <item>
+      <title>How Guy Raz Built &#x2018;How I Built This&#x2019;</title>
+      <link>https://www.nytimes.com/2018/11/23/business/guy-raz-how-i-built-this.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/business/guy-raz-how-i-built-this.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/23/business/guy-raz-how-i-built-this.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/25/business/25GUYRAZ-01/25GUYRAZ-01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Guy Raz, host of the podcasts &#x201C;How I Built This&#x201D; and &#x201C;The TED Radio Hour.&#x201D;</media:description>
+      <media:credit>Peter Prato for The New York Times</media:credit>
+      <description>The astonishment-prone host (Wow!) has turned a pure zeal for business (It&#x2019;s amazing!) into a juggernaut podcast. (What is that like?!)</description>
+      <dc:creator>NELLIE BOWLES</dc:creator>
+      <pubDate>Fri, 23 Nov 2018 10:00:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raz, Guy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Public Radio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capitalism (Theory and Philosophy)</category>
+    </item>
+    <item>
+      <title>Michigan Tries to Steady That Big Chip on Ohio State&#x2019;s Shoulder</title>
+      <link>https://www.nytimes.com/2018/11/21/sports/ohio-state-michigan.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/21/sports/ohio-state-michigan.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/21/sports/ohio-state-michigan.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/24/sports/23michiganosu1/23michiganosu1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Michigan&#x2019;s Wolverines enter the Ohio State game as slight favorites on the road.</media:description>
+      <media:credit>Rick Osentoski/USA Today Sports, via Reuters</media:credit>
+      <description>History says Michigan is better, though not recent history. With everything on the line, can Michigan Coach Jim Harbaugh fulfill his promise?</description>
+      <dc:creator>MARC TRACY</dc:creator>
+      <pubDate>Fri, 23 Nov 2018 21:14:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football (College)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Big Ten Conference</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Purdue University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">University of Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harbaugh, Jim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meyer, Urban</category>
+    </item>
+    <item>
+      <title>Time to Make the Donates!</title>
+      <link>https://www.nytimes.com/2018/11/22/style/donation-panic-giving-tuesday.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/22/style/donation-panic-giving-tuesday.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/22/style/donation-panic-giving-tuesday.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/25/fashion/25PANICDONATIONS/merlin_147129075_481e9266-db11-4979-ad67-357854fe5d50-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Jocelyn Tsaih</media:credit>
+      <description>In these turbulent times, charitable clicks are a form of self-soothing as well as generosity.</description>
+      <dc:creator>GRAY CHAPMAN</dc:creator>
+      <pubDate>Thu, 22 Nov 2018 10:00:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Immigration and Emigration</category>
+    </item>
+    <item>
+      <title>Jerome Corsi, Friend of Roger Stone, Is in Plea Talks With Mueller</title>
+      <link>https://www.nytimes.com/2018/11/23/us/politics/jerome-corsi-plea.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/us/politics/jerome-corsi-plea.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/23/us/politics/jerome-corsi-plea.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/13/us/politics/00dc-corsi/00dc-corsi-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jerome Corsi, a friend of the Trump adviser Roger J. Stone Jr., in October 2008 in Kenya. He has denied misleading investigators about his knowledge of actions by WikiLeaks.</media:description>
+      <media:credit>Associated Press</media:credit>
+      <description>Mr. Corsi is said to have been presented with evidence that he was not truthful when investigators asked him whether he knew beforehand about actions by WikiLeaks during the 2016 campaign.</description>
+      <dc:creator>SHARON LaFRANIERE and MAGGIE HABERMAN</dc:creator>
+      <pubDate>Fri, 23 Nov 2018 21:50:17 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Special Prosecutors (Independent Counsel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">WikiLeaks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Corsi, Jerome R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stone, Roger J Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Paris Police Fire Tear Gas and Water Cannons at &#x2018;Yellow Vest&#x2019; Protesters</title>
+      <link>https://www.nytimes.com/2018/11/24/world/europe/france-yellow-vest-protest.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/24/world/europe/france-yellow-vest-protest.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/24/world/europe/france-yellow-vest-protest.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/25/world/25france-protests/25france-protests-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Protesters in yellow vests demonstrating amid tear gas on the Champs-&#xC9;lys&#xE9;es in Paris on Saturday.</media:description>
+      <media:credit>Lucas Barioulet/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>France deployed thousands of police officers to try to contain nationwide protests and road blockades by drivers angry over rising fuel taxes and Emmanuel Macron&#x2019;s presidency.</description>
+      <dc:creator>THE ASSOCIATED PRESS</dc:creator>
+      <pubDate>Sat, 24 Nov 2018 12:21:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+    </item>
+    <item>
+      <title>American-Israeli Teenager Is Sentenced to 10 Years for Bomb Hoaxes</title>
+      <link>https://www.nytimes.com/2018/11/22/world/middleeast/israel-us-ashkelon-hacker.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/22/world/middleeast/israel-us-ashkelon-hacker.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/22/world/middleeast/israel-us-ashkelon-hacker.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/23/world/23hoax-print/24hoax-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The 19-year-old has remained publicly unidentified because some of the crimes were committed while he was still a minor.</media:description>
+      <media:credit>Baz Ratner/Reuters</media:credit>
+      <description>The 19-year-old from southern Israel was a minor when he began his campaign of terror, which forced school evacuations and grounded planes.</description>
+      <dc:creator>ISABEL KERSHNER</dc:creator>
+      <pubDate>Fri, 23 Nov 2018 04:23:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extortion and Blackmail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Threats and Threatening Messages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tel Aviv (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+    </item>
+    <item>
+      <title>James H. Billington, 89, Dies; Led Library of Congress Into Digital Age</title>
+      <link>https://www.nytimes.com/2018/11/21/obituaries/james-billington-dead.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/21/obituaries/james-billington-dead.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/21/obituaries/james-billington-dead.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/22/obituaries/22billington6/22billington6-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>James H. Billington in 1989. He led the Library of Congress for nearly three decades, taking over at the dawn of the digital era.</media:description>
+      <media:credit>Jose Lopez/The New York Times</media:credit>
+      <description>Overseeing the nation&#x2019;s treasure house of knowledge for three decades, he almost doubled its holdings but resigned in 2015, stung by cries of mismanagement.</description>
+      <dc:creator>ROBERT D. McFADDEN</dc:creator>
+      <pubDate>Wed, 21 Nov 2018 23:06:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Billington, James H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Library of Congress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Computers and the Internet</category>
+    </item>
+    <item>
+      <title>Haitians Furious at Their Government Protest in a Week of Unrest</title>
+      <link>https://www.nytimes.com/2018/11/23/world/americas/haiti-protests-unrest-instability.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/world/americas/haiti-protests-unrest-instability.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/23/world/americas/haiti-protests-unrest-instability.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/24/world/24haiti-1/24haiti-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Haitians marching on Friday in Port-au-Prince, the capital, against graft, economic misery and their government&#x2019;s failures.</media:description>
+      <media:credit>Estailove St-Val/EPA, via Shutterstock</media:credit>
+      <description>With thousands marching in the capital, demonstrations have turned into a referendum on the administration of President Jovenel Mo&#xEF;se.</description>
+      <dc:creator>KIRK SEMPLE</dc:creator>
+      <pubDate>Sat, 24 Nov 2018 00:00:29 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moise, Jovenel (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Port-au-Prince (Haiti)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Embezzlement</category>
+    </item>
+    <item>
+      <title>Poisoned Wildlife and Tainted Meat: Why Hunters Are Moving Away From Lead Bullets</title>
+      <link>https://www.nytimes.com/2018/11/24/us/ammunition-lead-bullets-condors.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/24/us/ammunition-lead-bullets-condors.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/24/us/ammunition-lead-bullets-condors.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/20/us/00hunt-01/merlin_144317580_f5163f89-834e-4966-9b63-4e2acdfb08e7-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Chelsea Cassens during an elk hunt at The Nature Conservancy&#x2019;s Zumwalt Prairie Preserve in Oregon.</media:description>
+      <media:credit/>
+      <description>Many hunters are ditching traditional ammunition amid mounting evidence that it harms scavengers and pollutes the food people eat.</description>
+      <dc:creator>IAN URBINA and MAX WHITTAKER</dc:creator>
+      <pubDate>Sat, 24 Nov 2018 10:00:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-photojournalism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hunting and Trapping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Gun Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Condors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Lead</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Environmental Protection Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Nature Conservancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
+    </item>
+    <item>
+      <title>A Guatemalan Mother Could Lose Her Daughter, Because She&#x2019;s an American</title>
+      <link>https://www.nytimes.com/2018/11/23/us/migrant-family-separation-citizen-domestic-abuse.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/us/migrant-family-separation-citizen-domestic-abuse.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/23/us/migrant-family-separation-citizen-domestic-abuse.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/24/us/24citizenmigrant-print/00citzenmigrant-01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Yeisvi Carrillo, seen in a family photo, is an American citizen who remains in foster care while her mother, Vilma Carrillo, appeals a deportation order.</media:description>
+      <media:credit/>
+      <description>A Guatemalan migrant separated from her daughter at the border has been told she faces the possible loss of her parental rights, in part because her daughter was born in the United States.</description>
+      <dc:creator>MIRIAM JORDAN</dc:creator>
+      <pubDate>Fri, 23 Nov 2018 20:28:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Domestic Violence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Customs and Border Protection (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Office of Refugee Resettlement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+    </item>
+    <item>
+      <title>Bob McNair, Energy Mogul Who Brought the N.F.L. Back to Houston, Dies at 81</title>
+      <link>https://www.nytimes.com/2018/11/23/obituaries/bob-mcnair-dead.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/obituaries/bob-mcnair-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/23/obituaries/bob-mcnair-dead.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/25/science/25xp-mcnair-obit1/24xp-mcnair1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Bob McNair, the owner of the Houston Texans, in 2016. He paid a record $700 million for the expansion franchise, which returned professional football to Houston.</media:description>
+      <media:credit>Dustin Bradford/Getty Images</media:credit>
+      <description>Mr. McNair, who was awarded the franchise that became the Texans, gave to many charitable causes. More recently, he was criticized for remarks about national anthem protests.</description>
+      <dc:creator>MATT STEVENS and ANDREW R. CHOW</dc:creator>
+      <pubDate>Sat, 24 Nov 2018 03:55:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McNair, Bob</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Houston Texans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Football League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+    </item>
+    <item>
+      <title>A Man&#x2019;s Last Letter Before Being Killed on a Forbidden Island</title>
+      <link>https://www.nytimes.com/2018/11/23/world/asia/andaman-missionary-john-chau.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/world/asia/andaman-missionary-john-chau.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/23/world/asia/andaman-missionary-john-chau.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/24/world/24andaman-2-print/24indiamurder1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>John Allen Chau, 26, of Washington State loved climbing mountains, camping, hiking, canoeing and seeing the world.</media:description>
+      <media:credit>via Reuters</media:credit>
+      <description>John Allen Chau&#x2019;s letter to his parents from the Andamans lays out a disturbing account of his final days trying to spread Christianity.</description>
+      <dc:creator>JEFFREY GETTLEMAN, HARI KUMAR and KAI SCHULTZ</dc:creator>
+      <pubDate>Fri, 23 Nov 2018 20:24:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Christians and Christianity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Archaeology and Anthropology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pandit, T N</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indian Ocean</category>
+    </item>
+    <item>
+      <title>How to Get the Most Out of Black Friday and Cyber Monday (Even if You&#x2019;re Not Into Tech)</title>
+      <link>https://www.nytimes.com/2018/11/20/smarter-living/wirecutter/how-to-get-the-most-out-of-black-friday-even-if-youre-not-into-tech.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/20/smarter-living/wirecutter/how-to-get-the-most-out-of-black-friday-even-if-youre-not-into-tech.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/20/smarter-living/wirecutter/how-to-get-the-most-out-of-black-friday-even-if-youre-not-into-tech.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/20/smarter-living/wc-blackfriday-slide-LF35/wc-blackfriday-slide-LF35-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Michael Hession/Wirecutter</media:credit>
+      <description>Black Friday and Cyber Monday may be known for hot gadgets and electronics, but there are great deals on other things, too. Here are a few to watch out for.</description>
+      <dc:creator>WIRECUTTER STAFF</dc:creator>
+      <pubDate>Sat, 24 Nov 2018 05:27:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Friday and Cyber Monday (Shopping)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+    </item>
+    <item>
+      <title>The Morning After: Thanksgiving Cleanup Tips</title>
+      <link>https://www.nytimes.com/2018/11/23/smarter-living/wirecutter/the-morning-after-thanksgiving-cleanup-tips.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/smarter-living/wirecutter/the-morning-after-thanksgiving-cleanup-tips.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/23/smarter-living/wirecutter/the-morning-after-thanksgiving-cleanup-tips.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/23/smarter-living/wc-thanksgivingclean-slide-OPRW/wc-thanksgivingclean-slide-OPRW-moth.png" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Sarah MacReading/Wirecutter</media:credit>
+      <description>Thanksgiving is awesome. Thanksgiving cleanup stinks. Here are a few tips to make it easier.</description>
+      <dc:creator>WIRECUTTER STAFF</dc:creator>
+      <pubDate>Fri, 23 Nov 2018 05:00:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cleansers, Detergents and Soaps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dishwashers and Dishwashing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Thanksgiving Day</category>
+    </item>
+    <item>
+      <title>5 Cheap(ish) Ways to Maximize a Tiny Kitchen</title>
+      <link>https://www.nytimes.com/2018/11/23/smarter-living/make-small-kitchen-feel-big.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/23/smarter-living/make-small-kitchen-feel-big.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/23/smarter-living/make-small-kitchen-feel-big.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/22/smarter-living/22sl_CheapishKitchen/22sl_CheapishKitchen-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Amrita Marino</media:credit>
+      <description>Work small, cook big.</description>
+      <dc:creator>RACHEL HOLLIDAY SMITH</dc:creator>
+      <pubDate>Fri, 23 Nov 2018 05:00:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kitchens</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cookware</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Holidays and Special Occasions</category>
+    </item>
+    <item>
+      <title>Editors&#x2019; Choice: 10 New Books We Recommend This Week</title>
+      <link>https://www.nytimes.com/2018/11/21/books/review/10-new-books-we-recommend-this-week.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/21/books/review/10-new-books-we-recommend-this-week.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/21/books/review/10-new-books-we-recommend-this-week.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/25/books/review/25edchoice-covers/25edchoice-covers-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit/>
+      <description>Suggested reading from critics and editors at The New York Times.</description>
+      <dc:creator/>
+      <pubDate>Wed, 21 Nov 2018 17:48:27 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+    </item>
+    <item>
+      <title>What if Holidays Could Save the Planet?</title>
+      <link>https://www.nytimes.com/2018/11/17/business/eco-friendly-holiday.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/17/business/eco-friendly-holiday.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/17/business/eco-friendly-holiday.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/14/us/00xp-holiday2/00xp-holiday2-moth-v5.jpg" medium="image" height="151" width="151"/>
+      <media:description>With the 2009 White House Christmas tree, Barack and Michelle Obama ushered in an era of eco-friendly consciousness. They trimmed it with energy-saving LED lights and recycled ornaments.</media:description>
+      <media:credit>Luke Sharrett for The New York Times</media:credit>
+      <description>After a year (or two) of natural disasters, some people are rethinking what it means to be green and charitable during the holiday season.</description>
+      <dc:creator>LAURA M. HOLSON</dc:creator>
+      <pubDate>Sat, 17 Nov 2018 16:30:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gifts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christmas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hanukkah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sustainable Living</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Central Park Conservancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+    </item>
+    <item>
+      <title>Rogue &#x2018;M.T.A. Museum&#x2019; Celebrates Everything Dingy About the Subway</title>
+      <link>https://www.nytimes.com/2018/11/22/nyregion/rogue-mta-museum-celebrates-everything-dingy-about-the-subway.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/22/nyregion/rogue-mta-museum-celebrates-everything-dingy-about-the-subway.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/22/nyregion/rogue-mta-museum-celebrates-everything-dingy-about-the-subway.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/23/nyregion/23MTAMUSEUM4/00MTAMUSEUM4-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>M.T.A. Museum</media:credit>
+      <description>Using mock placards, two art students playfully reframed New York&#x2019;s subway stations as a gallery documenting the city&#x2019;s anthropological history.</description>
+      <dc:creator>MICHAEL GOLD</dc:creator>
+      <pubDate>Thu, 22 Nov 2018 10:00:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subways</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Metropolitan Transportation Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Stations and Terminals (Passenger)</category>
+    </item>
+    <item>
+      <title>Album Review: Nashville Embraces Kane Brown and Jimmie Allen, Black Singers Upholding Genre Traditions</title>
+      <link>https://www.nytimes.com/2018/11/21/arts/music/kane-brown-jimmie-allen-experiment-mercury-lane-review.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/21/arts/music/kane-brown-jimmie-allen-experiment-mercury-lane-review.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/21/arts/music/kane-brown-jimmie-allen-experiment-mercury-lane-review.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/22/arts/22country-albums1/22country-albums1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Kane Brown&#x2019;s &#x201C;Experiment&#x201D; debuted at No. 1 on the Billboard album chart. The singer and songwriter has been on the rise for the last three years.</media:description>
+      <media:credit>Jason Kempin/Getty Images</media:credit>
+      <description>Brown&#x2019;s &#x201C;Experiment&#x201D; and Allen&#x2019;s &#x201C;Mercury Lane&#x201D; are two of the year&#x2019;s stronger, and more stylistically conservative, country albums.</description>
+      <dc:creator>JON CARAMANICA</dc:creator>
+      <pubDate>Wed, 21 Nov 2018 22:31:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Country Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Kane (1993- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Experiment (Album)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Allen, Jimmie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Mercury Lane (Album)</category>
+    </item>
+    <item>
+      <title>The Hunt: A One-Bedroom and a Sweater for the Dog</title>
+      <link>https://www.nytimes.com/2018/11/22/realestate/a-one-bedroom-and-a-sweater-for-the-dog.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/22/realestate/a-one-bedroom-and-a-sweater-for-the-dog.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/22/realestate/a-one-bedroom-and-a-sweater-for-the-dog.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/25/realestate/25Hunt-EastVillage1/25Hunt-EastVillage1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Josh Collins and Katara outside their new apartment in the East Village.</media:description>
+      <media:credit>Katherine Marks for The New York Times</media:credit>
+      <description>To find their first New York home, a Southerner and his four-legged roommate scour Lower Manhattan for dog-friendly abodes.</description>
+      <dc:creator>JOYCE COHEN</dc:creator>
+      <pubDate>Thu, 22 Nov 2018 10:00:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Village (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tompkins Square Park (Manhattan, NY)</category>
+    </item>
+    <item>
+      <title>Books of The Times: &#x2018;The Condition of Secrecy&#x2019; Teems With Love for Language and the Natural World</title>
+      <link>https://www.nytimes.com/2018/11/20/books/review-condition-of-secrecy-essays-inger-christensen.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/20/books/review-condition-of-secrecy-essays-inger-christensen.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/20/books/review-condition-of-secrecy-essays-inger-christensen.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/21/books/21bookchristensen1/21bookchristensen1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Alessandra Montalto/The New York Times</media:credit>
+      <description>In her wide-ranging essays, the Danish writer Inger Christensen, who died in 2009, cuts her towering erudition with mischief and generosity.</description>
+      <dc:creator>PARUL	 SEHGAL</dc:creator>
+      <pubDate>Tue, 20 Nov 2018 20:13:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Condition of Secrecy: Essays (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Christensen, Inger</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nied, Susanna</category>
+    </item>
+    <item>
+      <title>Branzino, a Mediterranean Fish, Is Being Farmed in Connecticut</title>
+      <link>https://www.nytimes.com/2018/11/20/dining/branzino-fish-farming-connecticut.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/20/dining/branzino-fish-farming-connecticut.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/20/dining/branzino-fish-farming-connecticut.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/21/dining/21branzino1/21branzino1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Ideal Fish, in Waterbury, Conn., is one of the first companies n the United States to commercially farm branzino &#x2014; a species that has long been flown in from the Mediterranean. </media:description>
+      <media:credit>Jessica Hill for The New York Times</media:credit>
+      <description>Ideal Fish is banking on technology to provide a fresher, more sustainable source of the popular fish.</description>
+      <dc:creator>PRIYA KRISHNA</dc:creator>
+      <pubDate>Tue, 20 Nov 2018 16:32:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seafood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Water Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Balducci's</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Connecticut</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mediterranean Sea</category>
+    </item>
+    <item>
+      <title>Diagnosis: Was This Agitation Just Part of Her Postpartum Anxiety, or Something Much More Serious?</title>
+      <link>https://www.nytimes.com/2018/11/21/magazine/was-this-agitation-just-part-of-her-postpartum-anxiety-or-something-much-more-serious.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/21/magazine/was-this-agitation-just-part-of-her-postpartum-anxiety-or-something-much-more-serious.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/21/magazine/was-this-agitation-just-part-of-her-postpartum-anxiety-or-something-much-more-serious.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/25/magazine/25mag-Diagnosis-1/25mag-Diagnosis-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Illustration by Haik Avanian</media:credit>
+      <description>The young woman went from feeling a bit jittery to becoming completely disoriented and struggling with her words.</description>
+      <dc:creator>LISA SANDERS, M.D.</dc:creator>
+      <pubDate>Wed, 21 Nov 2018 18:35:50 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Tumors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Tetroma</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Benzodiazepines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Pareneoplastic syndrome</category>
+    </item>
+    <item>
+      <title>Science Times at 40: The Key to Stopping the Illegal Wildlife Trade: China</title>
+      <link>https://www.nytimes.com/2018/11/19/science/wildlife-trafficking-china.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/19/science/wildlife-trafficking-china.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/19/science/wildlife-trafficking-china.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/20/science/20SCI-CONSERVATION1/20SCI-CONSERVATION1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A child poses with a Siberian tiger cub at a park in Harbin, China. The park is part of a government effort to create a haven for Siberian tigers, but lately the country has sent mixed signals about its commitment to conservation.</media:description>
+      <media:credit>Kevin Frayer/Getty Images</media:credit>
+      <description>The country is a critical market for animal contraband. Some scientists fear the official commitment to conservation may be wavering.</description>
+      <dc:creator>RACHEL NUWER</dc:creator>
+      <pubDate>Tue, 20 Nov 2018 02:44:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poaching (Wildlife)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tigers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rhinoceroses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Conservation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Animal Abuse, Rights and Welfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Ivory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Parks and Other Recreation Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">World Wildlife Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+    </item>
+    <item>
+      <title>The Particular Horror of Long Commutes for Young Families</title>
+      <link>https://www.nytimes.com/2018/10/31/well/family/the-particular-horror-of-long-commutes-for-young-families.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/31/well/family/the-particular-horror-of-long-commutes-for-young-families.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/31/well/family/the-particular-horror-of-long-commutes-for-young-families.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/25/well/00WELL-COMMUTE1/00WELL-COMMUTE1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Elizabeth Yura spent hours commuting to Sacramento while pregnant with her daughter, Charlotte. She changed jobs, but commuting still takes time away from family time.</media:description>
+      <media:credit>Brian L. Frank for The New York Times</media:credit>
+      <description>Traffic jams and delayed trains are infuriating for everyone, but they&#x2019;re especially painful when they make you miss your baby&#x2019;s bedtime yet again.</description>
+      <dc:creator>MASHA RUMER</dc:creator>
+      <pubDate>Wed, 31 Oct 2018 10:00:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Work-Life Balance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Working Hours</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Commuting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Families and Family Life</category>
+    </item>
+  </channel>
+</rss>
