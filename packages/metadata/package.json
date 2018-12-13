@@ -23,7 +23,8 @@
     "homepage": "https://github.com/Anonyfox/webalytics#readme",
     "dependencies": {
         "cheerio": "^0.22.0",
-        "lodash": "^4.17.11"
+        "lodash": "^4.17.11",
+        "url": "^0.11.0"
     },
     "devDependencies": {
         "@types/cheerio": "^0.22.0",
